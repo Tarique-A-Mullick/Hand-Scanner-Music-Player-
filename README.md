@@ -1,5 +1,13 @@
 # Hand-Scanner-Music-Player-
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ3bHFzNmdvcWkxdXV5ZzMyMHJmNzU3N2I3ZGxjMWNjaWN2N2Q2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KovJk52xZxvKw/giphy.gif" width="300"/>
+  <br/>
+  <b>👋 Big Update Loading...</b><br/>
+  New features arriving tomorrow!
+</p>
+
 # 🎶 HandScan Music Player
 
 > Play music with just a wave of your hand ✋🎵  
