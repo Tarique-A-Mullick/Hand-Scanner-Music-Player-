@@ -11,6 +11,11 @@
   <br/>
   <b>👋 Big Update Loading...</b><br/>
   <h1 style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;"> New features arriving 🔜! </h1>
+
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <h1 style="text-align: center;">new features arrive soon</h1>
+</body>
+  
 </p>
 
 
