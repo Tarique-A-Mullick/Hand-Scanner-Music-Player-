@@ -1,4 +1,9 @@
-# Hand-Scanner-Music-Player-
+# 🎶 HandScan Music Player
+
+> Play music with just a wave of your hand ✋🎵  
+> A futuristic, touchless music experience using gesture recognition.
+
+![Banner](assets/banner.gif) <!-- Replace with your animated demo or logo -->
 
 
 <p align="center">
@@ -8,12 +13,6 @@
   New features arriving tomorrow!
 </p>
 
-# 🎶 HandScan Music Player
-
-> Play music with just a wave of your hand ✋🎵  
-> A futuristic, touchless music experience using gesture recognition.
-
-![Banner](assets/banner.gif) <!-- Replace with your animated demo or logo -->
 
 ---
 
