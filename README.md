@@ -15,6 +15,9 @@
 <body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
   <h1 style="text-align: center;">new features arrive soon</h1>
 </body>
+
+<h1 align="center">✨ New Features Arrive Soon ✨</h1>
+<p align="center">Stay tuned for awesome updates rolling out tomorrow!</p>
   
 </p>
 
