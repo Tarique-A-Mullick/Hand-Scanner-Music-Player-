@@ -10,13 +10,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ3bHFzNmdvcWkxdXV5ZzMyMHJmNzU3N2I3ZGxjMWNjaWN2N2Q2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KovJk52xZxvKw/giphy.gif" width="300"/>
   <br/>
   <b>👋 Big Update Loading...</b><br/>
-  <h1 style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;"> New features arriving 🔜! </h1>
-
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-  <h1 style="text-align: center;">new features arrive soon</h1>
-</body>
-
-<h1 align="center">✨ New Features Arrive Soon ✨</h1>
+  
+<h1 align="center">✨ New Features Arrive 🔜 ✨</h1>
 <p align="center">Stay tuned for awesome updates rolling out tomorrow!</p>
   
 </p>
