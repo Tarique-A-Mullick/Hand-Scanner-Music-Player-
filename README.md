@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hand_icon.svg/800px-Hand_icon.svg.png" width="150">
-  <br/>
-  <b>🚧 Update Coming Soon</b><br/>
-  More gesture controls & smarter music playback are on the way!
-</p>
-
 # 🎶 HandScan Music Player
 
 > Play music with just a wave of your hand ✋🎵  
