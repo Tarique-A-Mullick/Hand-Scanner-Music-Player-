@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ3bHFzNmdvcWkxdXV5ZzMyMHJmNzU3N2I3ZGxjMWNjaWN2N2Q2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KovJk52xZxvKw/giphy.gif" width="300"/>
   <br/>
   <b>👋 Big Update Loading...</b><br/>
-  <h1 style="text-align: center;"> New features arriving 🔜! </h1>
+  <h1 style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;"> New features arriving 🔜! </h1>
 </p>
 
 
